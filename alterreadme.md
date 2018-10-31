@@ -5,4 +5,4 @@ password has encryption
 username is just a name
 
 email id is also ok
-username is case sensitive.
+username is case sensitive..
